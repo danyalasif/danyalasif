@@ -10,33 +10,15 @@ Here are some ideas to get you started:
 
 <h3 align="center">Frontend Developer and Life-Long Learner</h3>
 <br>
-<b> "Sleep😴 To Program Your Subconscious Space"</b>
-<p>
 
 - 🔭 I’m currently working on React, React Native, with some backend sprinkled
 - 🌱 I’m currently learning technical writing, TailwindCSS, and AWS
 - 💬 Ask me about frontend, career, and surviving as an engineer 
 - 📫 How to reach me: hello@danyalasif.com
 - ⚡ Fun fact: I can Deadlift 180kg, Squat: 160kg, and Bench 105kg 💪🏽
-</p>
 
 <div align="center">
-
-<h3 align="left">Interests:</h3>
-
-- Optimizing everyday systems
-- Game development
-
-<h3 align="left">Languages:</h3>
-
-- English
-- Urdu 
-- Punjabi
-
-<br><br>
-  
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=danyalasif&label=Profile%20views&color=0e75b6&style=flat" alt="danyalasif" /> </p>  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=danyalasif&label=Profile%20views&color=0e75b6&style=flat" alt="danyalasif" /> </p>  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danyalasif" alt="danyalasif" /></a> </p>  
   
 <p align="left"> <a href="https://twitter.com/danyalasif_" target="blank"><img src="https://img.shields.io/twitter/follow/danyalasif_?logo=twitter&style=for-the-badge" alt="danyalasif_" /></a> </p>  
