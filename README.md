@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h3 align="center">Frontend Developer and Life-Long Learner</h3>
 <br>
 
-- 🔭 I’m currently working on React, React Native, with some backend sprinkled
+- 🔭 I’m currently working on Next.js, PHP, AWS, React, React Native
 - 🌱 I’m currently learning technical writing, TailwindCSS, and AWS
 - 💬 Ask me about frontend, career, and surviving as an engineer 
 - 📫 How to reach me: hello@danyalasif.com
