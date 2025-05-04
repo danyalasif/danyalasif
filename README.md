@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there, I'm Danyal<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Frontend Developer and Life-Long Learner</h3>
+<h3 align="center">Fullstack Developer and Life-Long Learner</h3>
 <br>
 
 - 🔭 I’m currently working on Next.js, PHP, AWS, React, React Native
